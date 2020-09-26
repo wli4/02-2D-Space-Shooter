@@ -5,9 +5,13 @@ A fun and rewarding 2D-Space-Shooter game.
 
 # Instruction
 A: move left
+
 D: move right
+
 Mouse: aim
+
 Space: shoot
+
 
 ## ImplementationBuilt using Godot 3.2.2
 
