@@ -23,7 +23,7 @@ __meta__ = {
 margin_right = 1024.0
 margin_bottom = 300.0
 custom_fonts/font = SubResource( 1 )
-custom_colors/font_color = Color( 0.886275, 1, 0.0941176, 1 )
+custom_colors/font_color = Color( 1, 0.0941176, 0.113725, 1 )
 text = "Civil Warrior"
 align = 1
 valign = 1
@@ -37,7 +37,8 @@ margin_top = 300.0
 margin_right = 612.0
 margin_bottom = 360.0
 custom_fonts/font = SubResource( 2 )
-custom_colors/font_color_disabled = Color( 0, 0, 0, 1 )
+custom_colors/font_color_disabled = Color( 1, 0, 0, 1 )
+custom_colors/font_color = Color( 1, 0, 0.117188, 1 )
 text = "Play"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -50,6 +51,7 @@ margin_right = 612.0
 margin_bottom = 440.0
 custom_fonts/font = SubResource( 2 )
 custom_colors/font_color_disabled = Color( 0.729412, 0.827451, 0.0313726, 1 )
+custom_colors/font_color = Color( 1, 0, 0.0235294, 1 )
 text = "Quit"
 __meta__ = {
 "_edit_use_anchors_": false
