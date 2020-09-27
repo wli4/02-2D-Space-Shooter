@@ -15,6 +15,8 @@ Space: shoot
 
 ## ImplementationBuilt using Godot 3.2.2
 
+Laser Module and Explosion Module was learned from Mr. Jason Francis.
+
 The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
 
 The looping moving starfield video was created by David Greensmith: [https://archive.org/details/LoopingMovingStarfield](https://archive.org/details/LoopingMovingStarfield)
