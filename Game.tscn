@@ -78,5 +78,14 @@ valign = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_top = 40.0
+margin_right = 1024.0
+margin_bottom = 600.0
+color = Color( 0.0901961, 0, 1, 0.0823529 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 [connection signal="timeout" from="Enemies/Timer" to="Enemies" method="_on_Timer_timeout"]
 [connection signal="body_entered" from="Level" to="Level" method="_on_Level_body_entered"]
