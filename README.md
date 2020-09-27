@@ -1,10 +1,19 @@
-# Exercise-02d-HUD-and-Levels
-Exercise for MSCH-C220, 17 September 2020
+# Project Name
+02-2D-Space-Shooter
+Project for MSCH-C220, 26 September 2020
+A fun and rewarding 2D-Space-Shooter game.
 
-A simple game exploring HUD elements and changing scenes.
+# Instruction
+A: move left
 
-## Implementation
-Built using Godot 3.2.2
+D: move right
+
+Mouse: aim
+
+Space: shoot
+
+
+## ImplementationBuilt using Godot 3.2.2
 
 The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
 
@@ -21,7 +30,5 @@ None
 ## Future Development
 None
 
-## Created by 
+## Created by
 Wangyin Li
-
-```
