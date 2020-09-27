@@ -34,7 +34,10 @@ __meta__ = {
 [node name="ColorRect" type="ColorRect" parent="HUD"]
 margin_right = 1024.0
 margin_bottom = 40.0
-color = Color( 1, 1, 1, 0.25098 )
+color = Color( 0.0196078, 1, 0, 0.368627 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Health" type="Label" parent="HUD"]
 margin_left = 10.0
